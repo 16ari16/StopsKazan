@@ -1,0 +1,6 @@
+D:\Учеба\4 курс\Демоэкзамен\VariativePart\RoutesInfoLibrary\bin\Debug\RoutesInfoLibrary.dll
+D:\Учеба\4 курс\Демоэкзамен\VariativePart\RoutesInfoLibrary\bin\Debug\RoutesInfoLibrary.pdb
+D:\Учеба\4 курс\Демоэкзамен\VariativePart\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.csproj.AssemblyReference.cache
+D:\Учеба\4 курс\Демоэкзамен\VariativePart\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\Демоэкзамен\VariativePart\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.dll
+D:\Учеба\4 курс\Демоэкзамен\VariativePart\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.pdb

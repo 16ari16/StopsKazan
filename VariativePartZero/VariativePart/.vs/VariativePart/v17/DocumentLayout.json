@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0432\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\variativepartzero\\variativepart\\routesinfolibrary\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|solutionrelative:routesinfolibrary\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0432\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\variativepartzero\\variativepart\\routesinfolibrary\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|solutionrelative:routesinfolibrary\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0432\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\variativepartzero\\variativepart\\routesinfolibrary\\models\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|solutionrelative:routesinfolibrary\\models\\stop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0432\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\variativepartzero\\variativepart\\routesinfolibrary\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|solutionrelative:routesinfolibrary\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0432\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\variativepartzero\\variativepart\\routesinfolibrary\\models\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7218ED6-826A-422A-85A8-747D0BEC804B}|RoutesInfoLibrary\\RoutesInfoLibrary.csproj|solutionrelative:routesinfolibrary\\models\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0434\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0432\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\variativepartzero\\variativepart\\variativepart\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|solutionrelative:variativepart\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\variativepart\\pages\\routepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|solutionrelative:variativepart\\pages\\routepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\variativepart\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|solutionrelative:variativepart\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\variativepart\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|solutionrelative:variativepart\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\variativepart\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|solutionrelative:variativepart\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\variativepart\\pages\\routepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|solutionrelative:variativepart\\pages\\routepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\variativepart\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96069597-7D7F-4F0F-B2F3-2F2C2E199CE8}|VariativePart\\VariativePart.csproj|solutionrelative:variativepart\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoutePage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\Pages\\RoutePage.xaml.cs",
+              "RelativeDocumentMoniker": "VariativePart\\Pages\\RoutePage.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\Pages\\RoutePage.xaml.cs",
+              "RelativeToolTip": "VariativePart\\Pages\\RoutePage.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:34:30.26Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Services\\DBService.cs",
+              "RelativeDocumentMoniker": "RoutesInfoLibrary\\Services\\DBService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Services\\DBService.cs",
+              "RelativeToolTip": "RoutesInfoLibrary\\Services\\DBService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:18:09.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Models\\Transport.cs",
+              "RelativeDocumentMoniker": "RoutesInfoLibrary\\Models\\Transport.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Models\\Transport.cs",
+              "RelativeToolTip": "RoutesInfoLibrary\\Models\\Transport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:17:59.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stop.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Models\\Stop.cs",
+              "RelativeDocumentMoniker": "RoutesInfoLibrary\\Models\\Stop.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Models\\Stop.cs",
+              "RelativeToolTip": "RoutesInfoLibrary\\Models\\Stop.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:17:53.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "RoutesInfoLibrary\\Models\\Route.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Models\\Route.cs",
+              "RelativeToolTip": "RoutesInfoLibrary\\Models\\Route.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:17:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Models\\IModel.cs",
+              "RelativeDocumentMoniker": "RoutesInfoLibrary\\Models\\IModel.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\RoutesInfoLibrary\\Models\\IModel.cs",
+              "RelativeToolTip": "RoutesInfoLibrary\\Models\\IModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:17:44.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\App.config",
+              "RelativeDocumentMoniker": "VariativePart\\App.config",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\App.config",
+              "RelativeToolTip": "VariativePart\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-29T05:27:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VariativePart\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VariativePart\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:31:42.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "VariativePart\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "VariativePart\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:44:39.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoutePage.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\Pages\\RoutePage.xaml",
+              "RelativeDocumentMoniker": "VariativePart\\Pages\\RoutePage.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\Pages\\RoutePage.xaml",
+              "RelativeToolTip": "VariativePart\\Pages\\RoutePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:33:42.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "VariativePart\\Pages\\MainPage.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "VariativePart\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:33:26.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VariativePart\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u0414\u0435\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0412\u0430\u0440\u0438\u0430\u0442\u0438\u0432\u043A\u0430(\u0433\u043E\u0442\u043E\u0432\u0430\u044F)\\VariativePartZero\\VariativePart\\VariativePart\\MainWindow.xaml",
+              "RelativeToolTip": "VariativePart\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T11:31:44.988Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 503,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
